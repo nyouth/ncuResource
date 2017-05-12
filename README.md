@@ -59,3 +59,4 @@
 ## 其他
 1. 前端工程师手册：https://leohxj.gitbooks.io/front-end-database/content/index.html
 2. 程序员的自我修养：https://leohxj.gitbooks.io/a-programmer-prepares/content/
+3. 编辑器Atom使用进阶：http://www.open-open.com/lib/view/open1457082318187.html
